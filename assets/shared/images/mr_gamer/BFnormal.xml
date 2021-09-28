@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFnormal.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf Dia0000" x="0" y="0" width="475" height="671" frameX="-24" frameY="0" frameWidth="499" frameHeight="671"/>
+	<SubTexture name="bf Dia0001" x="0" y="0" width="475" height="671" frameX="-19" frameY="0" frameWidth="499" frameHeight="671"/>
+	<SubTexture name="bf Dia0002" x="0" y="0" width="475" height="671" frameX="-13" frameY="0" frameWidth="499" frameHeight="671"/>
+	<SubTexture name="bf Dia0003" x="0" y="0" width="475" height="671" frameX="-7" frameY="0" frameWidth="499" frameHeight="671"/>
+	<SubTexture name="bf Dia0004" x="0" y="0" width="475" height="671" frameX="0" frameY="0" frameWidth="499" frameHeight="671"/>
+	<SubTexture name="bf Dia0005" x="0" y="0" width="475" height="671" frameX="0" frameY="0" frameWidth="499" frameHeight="671"/>
+</TextureAtlas>

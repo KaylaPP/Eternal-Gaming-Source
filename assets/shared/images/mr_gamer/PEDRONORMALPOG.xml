@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PEDRONORMALPOG.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PEDRO!?!?0000" x="0" y="0" width="374" height="529" frameX="0" frameY="0" frameWidth="392" frameHeight="529"/>
+	<SubTexture name="PEDRO!?!?0001" x="0" y="0" width="374" height="529" frameX="-6" frameY="0" frameWidth="392" frameHeight="529"/>
+	<SubTexture name="PEDRO!?!?0002" x="0" y="0" width="374" height="529" frameX="-12" frameY="0" frameWidth="392" frameHeight="529"/>
+	<SubTexture name="PEDRO!?!?0003" x="0" y="0" width="374" height="529" frameX="-15" frameY="0" frameWidth="392" frameHeight="529"/>
+	<SubTexture name="PEDRO!?!?0004" x="0" y="0" width="374" height="529" frameX="-18" frameY="0" frameWidth="392" frameHeight="529"/>
+	<SubTexture name="PEDRO!?!?0005" x="0" y="0" width="374" height="529" frameX="-18" frameY="0" frameWidth="392" frameHeight="529"/>
+</TextureAtlas>

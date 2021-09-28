@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PedroLaugh.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pedro laugh0000" x="0" y="0" width="374" height="529" frameX="0" frameY="-57" frameWidth="425" frameHeight="637"/>
+	<SubTexture name="pedro laugh0001" x="0" y="0" width="374" height="529" frameX="-51" frameY="-108" frameWidth="425" frameHeight="637"/>
+	<SubTexture name="pedro laugh0002" x="0" y="0" width="374" height="529" frameX="-8" frameY="-57" frameWidth="425" frameHeight="637"/>
+	<SubTexture name="pedro laugh0003" x="0" y="0" width="374" height="529" frameX="-2" frameY="-41" frameWidth="425" frameHeight="637"/>
+	<SubTexture name="pedro laugh0004" x="0" y="0" width="374" height="529" frameX="-1" frameY="0" frameWidth="425" frameHeight="637"/>
+	<SubTexture name="pedro laugh0005" x="0" y="0" width="374" height="529" frameX="-18" frameY="-57" frameWidth="425" frameHeight="637"/>
+</TextureAtlas>
