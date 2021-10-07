@@ -515,24 +515,8 @@ class Character extends FlxSprite
 				addOffset("singDOWN", 21, -90);
 	
 				playAnim('idle');
-
-				case 'MR':
-					iconColor = "FF003399";
-					frames = Paths.getSparrowAtlas('mr_gamer/MR', 'shared');
-					animation.addByPrefix('idle', 'idle', 24, false);
-					animation.addByPrefix('singUP', 'up', 24, false);
-					animation.addByPrefix('singDOWN', 'down', 24, false);
-					animation.addByPrefix('singLEFT', 'left', 24, false);
-					animation.addByPrefix('singRIGHT', 'right', 24, false);
-		
-					addOffset('idle', 30, -96);
-					addOffset("singUP", 23, -96);
-					addOffset("singRIGHT", -1, -93);
-					addOffset("singLEFT", 20, -94);
-					addOffset("singDOWN", 21, -90);
-		
-					playAnim('idle');
-			case 'nervous':
+				
+			case 'Gnervous':
 				iconColor = "FF003399";
 				frames = Paths.getSparrowAtlas('mr_gamer/GamerNervous', 'shared');
 				animation.addByPrefix('idle', 'Mr.Gamer Idle', 24, false);

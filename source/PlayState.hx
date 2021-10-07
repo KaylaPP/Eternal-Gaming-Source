@@ -853,7 +853,7 @@ class PlayState extends MusicBeatState
 			case 'Gnormal':
 				dad.x -= 360;
 				dad.y -= 100;
-			case 'nervous':
+			case 'Gnervous':
 				dad.x -= 360;
 				dad.y -= 100;
 		}
@@ -2324,9 +2324,9 @@ class PlayState extends MusicBeatState
 					case 'Gnormal':
 						camFollow.y = dad.getMidpoint().y + 38;
 						camFollow.x = dad.getMidpoint().x + 253;
-						case 'nervous':
-							camFollow.y = dad.getMidpoint().y + 38;
-							camFollow.x = dad.getMidpoint().x + 253;
+					case 'Gnervous':
+						camFollow.y = dad.getMidpoint().y + 38;
+						camFollow.x = dad.getMidpoint().x + 253;
 					case 'bf':
 						camFollow.y = boyfriend.getMidpoint().y + 50;
 						camFollow.x = boyfriend.getMidpoint().x + 250;
@@ -2577,7 +2577,7 @@ class PlayState extends MusicBeatState
 								dad.playAnim('singLEFT' + altAnim, true);
 						}
 
-						if (dad.curCharacter == 'nervous')
+						if (dad.curCharacter == 'Gnervous')
 							{
 								health -= 0.015;
 							}

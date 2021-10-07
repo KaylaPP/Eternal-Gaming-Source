@@ -1,4 +1,4 @@
 Tutorial:gf:1
 lets-play:Gnormal:7
 Pause:Gnormal:7
-game-over:nervous:7
+game-over:Gnervous:7
